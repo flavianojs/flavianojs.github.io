@@ -1,0 +1,18 @@
+title: Dr. Flaviano Marchiori dos Santos
+description: >-
+  A longer description of your site
+  that can span multiple lines
+baseurl: ""  # Leave empty for user/organization sites
+url: "https://username.github.io"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom settings
+author: Your Name
+twitter_username: yourusername
+github_username: yourusername
